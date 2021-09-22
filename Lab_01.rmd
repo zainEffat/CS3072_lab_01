@@ -1,0 +1,60 @@
+---
+title: "Lab 01: Data visualization"
+subtitle: "Due: Tu, Sep 28 at 11:59pm"
+author: ""
+date: ""
+editor_options: 
+  chunk_output_type: console
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Packages
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse)
+``` 
+
+# Exercise 1
+
+```{r ex-1}
+
+```
+
+# Exercise 2
+
+```{r ex-2}
+
+```
+
+Describe the advantages and disadvantages of the plots here (you can delete
+these instructions when you're done).
+
+# Exercise 3
+
+```{r ex-3}
+
+```
+
+# Exercise 4
+
+```{r ex-4}
+
+```
+
+Comment here on what you notice about the relationship between class and city
+miles per gallon.
+
+# Exercise 5
+
+```{r ex-5}
+
+```
+
+What do you notice from the bar chart above?
+
+# Exercise 6
+
+Add a named code chunk here to recreate the plot. Remember, you can insert
+code chunks using the "insert chunk" button (a green C with a +) and select `R`. Alternatively, use CMD + OPTION + I (Mac) or CTRL + ALT + I (Windows).
